@@ -1,0 +1,6 @@
+secrets.py
+__pycache__
+.DS_Store
+*.docx
+*.pdf
+*.json
